@@ -1,4 +1,4 @@
-#**Welcome to my profile!** 
+**Welcome to my profile!** 
 
 My name is Jenna Cuzziere, and I am a student at Stonehill College! 
 
