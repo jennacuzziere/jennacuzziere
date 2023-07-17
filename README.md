@@ -1,4 +1,6 @@
-**Welcome to my profile!** My name is Jenna Cuzziere, and I am a student at Stonehill College! 
+#**Welcome to my profile!** 
+
+My name is Jenna Cuzziere, and I am a student at Stonehill College! 
 
 - I am currently studying biology, and in my effort to earn my degree, I have taken an R Programming class. In this class I have gained abilities in understanding the R programming language. 
 
